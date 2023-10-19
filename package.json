@@ -1,0 +1,38 @@
+{
+  "name": "idx-dark-theme",
+  "displayName": "Idx Dark Theme",
+  "description": "Idx Dark Theme is a stunning dark theme for Visual Studio Code that brings the elegance of Google's IDX design to your coding environment. With its vibrant colors and thoughtful design, coding becomes a delightful experience.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pabitra Banerjee",
+    "email": "rockstarpabitra2204@gmail.com"
+  },
+  "publisher": "PabitraBanerjee",
+  "license": "MIT",
+  "repository": "https://github.com/PB2204/IDX-Dark-Theme",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "idx",
+    "dark",
+    "theme",
+    "google",
+    "vscode",
+    "dark-theme",
+    "idx-dark-theme"
+  ],
+  "icon": " images/idx.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Idx Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-idx-theme.json"
+      }
+    ]
+  }
+}
