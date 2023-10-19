@@ -1,7 +1,7 @@
 {
   "name": "idx-dark-theme",
-  "displayName": "Idx Dark Theme",
-  "description": "Idx Dark Theme is a stunning dark theme for Visual Studio Code that brings the elegance of Google's IDX design to your coding environment. With its vibrant colors and thoughtful design, coding becomes a delightful experience.",
+  "displayName": "IDXDark Theme",
+  "description": "IDX Dark Theme is a stunning dark theme for Visual Studio Code that brings the elegance of Google's IDX design to your coding environment. With its vibrant colors and thoughtful design, coding becomes a delightful experience.",
   "version": "1.0.0",
   "author": {
     "name": "Pabitra Banerjee",
